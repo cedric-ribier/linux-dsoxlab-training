@@ -18,4 +18,4 @@ dsoxlab doctor
 
 ## Notes
 - Image générée avec ovftool
-- Testée sur VMware [version]
+- Testée sur VMware Fusion Version professionnelle 13.6.2 (24409261) 
