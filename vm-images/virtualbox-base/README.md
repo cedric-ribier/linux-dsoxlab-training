@@ -19,4 +19,4 @@ dsoxlab doctor
 
 ## Notes
 - Image générée avec VBoxManage export --ovf20 --manifest
-- Testée sur VirtualBox Version 7.1.6 r167084 (Qt6.5.3)
+- Testée sur VirtualBox Version 7.1.6 r167084 (Qt6.5.3) / Version 7.2.10 r1741663 (Qt6.8.0 on windows) 
