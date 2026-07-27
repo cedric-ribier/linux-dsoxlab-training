@@ -12,7 +12,7 @@ Image OVA prête à l'emploi pour démarrer les labs sans étape d'installation 
 ## Import
 1. Télécharger l'OVA : https://github.com/cedric-ribier/linux-dsoxlab-training/releases/tag/v1.0-base-vm
 2. VirtualBox : Fichier → Importer une application virtuelle → sélectionner le .ova
-3. Démarrer la VM, se connecter avec les identifiants ci-dessus
+3. Démarrer la VM, personnalisé l'interface réseau, se connecter avec les identifiants ci-dessus
 
 ## Vérification
 dsoxlab doctor
