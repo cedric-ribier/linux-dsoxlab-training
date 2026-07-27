@@ -1,0 +1,20 @@
+# VM de base — VirtualBox (l1 fondamentaux)
+
+Image OVA prête à l'emploi pour démarrer les labs sans étape d'installation manuelle du système.
+
+## Contenu
+- OS : Debian 12
+- Outils préinstallés : git, curl, wget, uv, dsoxlab
+- Utilisateur par défaut : user / MotDePasse (à changer au premier boot)
+- Utilisateur root : root / MotDePassFort123! (à changer au premier boot)
+## Import
+1. Télécharger l'OVA : https://github.com/cedric-ribier/linux-dsoxlab-training/releases/tag/v1.0-base-vm
+2. VirtualBox : Fichier → Importer une application virtuelle → sélectionner le .ova
+3. Démarrer la VM, se connecter avec les identifiants ci-dessus
+
+## Vérification
+dsoxlab doctor
+
+## Notes
+- Image générée avec VBoxManage export --ovf20 --manifest
+- Testée sur VirtualBox Version 7.1.6 r167084 (Qt6.5.3)
