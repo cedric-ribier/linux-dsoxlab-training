@@ -1,6 +1,8 @@
 # VM de base — VirtualBox (l1 fondamentaux)
 
-Image OVA prête à l'emploi pour démarrer les labs sans étape d'installation manuelle du système. Assurée vous que votre machine hôte peut faire de la virtualisation imbriqué.
+Image OVA prête à l'emploi pour démarrer les labs sans étape d'installation manuelle du système. 
+
+>Assurée vous que votre machine hôte peut faire de la virtualisation imbriqué.
 
 ## Contenu
 - OS : Debian 12
