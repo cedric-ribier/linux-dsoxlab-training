@@ -9,12 +9,16 @@ Image OVA prête à l'emploi pour démarrer les labs l1 sans étape d'installati
 - Utilisateur root : root / MotDePasse123!  (à changer au premier boot)
 
 ## Import
-1. Télécharger l'OVA : https://github.com/cedric-ribier/linux-dsoxlab-training/releases/download/v1.0-base-vm-vmware/linux-dsoxlab-training-vmware.ova
-2. VMware Fusion/Workstation : Fichier → Ouvrir → sélectionner le .ova
-3. Démarrer la VM, se connecter avec les identifiants ci-dessus
+Télécharger l'OVA : https://github.com/cedric-ribier/linux-dsoxlab-training/releases/download/v1.0-base-vm-vmware/linux-dsoxlab-training-vmware.ova
+
+## Installation
+1. Double clic sur le fichier ou VMware Fusion/Workstation : Fichier → Ouvrir → sélectionner le .ova
+2. Démarrer la VM, se connecter avec les identifiants ci-dessus
 
 ## Vérification
-dsoxlab doctor
+1. Ce placer dans le répertoire linux-dsoxlab-training
+   ``` cd ~/linux-dsoxlab-training ```
+2. dsoxlab doctor
 
 ## Notes
 - Image générée avec ovftool
