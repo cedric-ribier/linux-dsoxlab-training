@@ -2,7 +2,7 @@
 
 Image OVA prête à l'emploi pour démarrer les labs sans étape d'installation manuelle du système. 
 
->Assurée vous que votre machine hôte peut faire de la virtualisation imbriqué.
+>Assurez-vous vous que votre machine hôte peut faire de la virtualisation imbriqué.
 
 ## Contenu
 - OS : Debian 12
