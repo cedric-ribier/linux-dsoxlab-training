@@ -18,9 +18,10 @@ Télécharger l'OVA : https://github.com/cedric-ribier/linux-dsoxlab-training/re
 2. Démarrer la VM, se connecter avec les identifiants ci-dessus
 
 ## Vérification
-1. Ce placer dans le répertoire linux-dsoxlab-training
+1. Ce connecter avec le compte **user**
+2.  Ce placer dans le répertoire linux-dsoxlab-training
    ``` cd ~/linux-dsoxlab-training ```
-2. dsoxlab doctor
+3. dsoxlab doctor
 
 ## Notes
 - Image générée avec ovftool
